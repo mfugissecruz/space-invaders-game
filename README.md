@@ -1,6 +1,6 @@
-# Space Invaders
+<h1 align="center">Space Invaders</h1>
 
-**Defenda a Terra. Elimine a invasão. Não deixe nenhum chegar.**
+<p align="center"><strong>Defenda a Terra. Elimine a invasão. Não deixe nenhum chegar.</strong></p>
 
 <p align="center">
   <img src="assets/demo-play.gif" height="400" alt="demo" />
