@@ -1,0 +1,11 @@
+export const CANVAS_W    = 256 as const
+export const CANVAS_H    = 256 as const
+export const SCALE       = 3   as const
+export const MAX_LIVES   = 3   as const
+export const MAX_PLAYER_BULLETS = 3 as const
+export const PLAYER_Y    = 240 as const
+export const PLAYER_MIN_X = 8  as const
+export const PLAYER_MAX_X = 216 as const
+export const INVADER_COLS = 11 as const
+export const INVADER_ROWS = 5  as const
+export const TICK_MS     = 60  as const

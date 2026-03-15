@@ -1,0 +1,21 @@
+{
+  "name": "space-invaders-server",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "node --watch dist/index.js",
+    "build": "tsc",
+    "typecheck": "tsc --noEmit",
+    "start": "node dist/index.js"
+  },
+  "dependencies": {
+    "@fastify/websocket": "^8.0.0",
+    "@game/shared": "*",
+    "dotenv": "^16.0.0",
+    "fastify": "^4.0.0",
+    "zod": "^3.22.0"
+  },
+  "devDependencies": {
+    "@types/node": "^25.3.5"
+  }
+}

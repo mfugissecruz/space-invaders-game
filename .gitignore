@@ -1,0 +1,26 @@
+# dependencies
+node_modules/
+dist/
+
+# build artifacts
+*.js.map
+*.tsbuildinfo
+
+# env
+.env
+.env.local
+.env.*.local
+
+# editor / OS
+.DS_Store
+Thumbs.db
+*.swp
+
+# internal tooling (not for repo)
+.claude/
+ralph.py
+MEMORY.md
+PROJECT.md
+SETUP.md
+SPACE_INVADERS.md
+assets/

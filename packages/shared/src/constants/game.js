@@ -1,0 +1,12 @@
+export const CANVAS_W = 224;
+export const CANVAS_H = 256;
+export const SCALE = 3;
+export const MAX_LIVES = 3;
+export const MAX_PLAYER_BULLETS = 3;
+export const PLAYER_Y = 240;
+export const PLAYER_MIN_X = 8;
+export const PLAYER_MAX_X = 216;
+export const INVADER_COLS = 11;
+export const INVADER_ROWS = 5;
+export const TICK_MS = 60;
+//# sourceMappingURL=game.js.map

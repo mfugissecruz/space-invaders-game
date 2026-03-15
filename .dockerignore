@@ -1,0 +1,8 @@
+node_modules
+packages/shared/dist
+server/dist
+client/dist
+.git
+.env
+ralph.py
+assets
