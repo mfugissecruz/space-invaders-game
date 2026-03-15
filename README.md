@@ -44,7 +44,7 @@ npm run dev
 space-invaders/
 ├── packages/
 │   └── shared/          # @game/shared — tipos TypeScript e constantes compartilhadas
-├── server/              # Node.js — motor do jogo, WebSocket, IA do attract mode
+├── server/              # Node.js — motor do jogo, WebSocket, auto-play do attract mode
 ├── client/              # Vue 3 + Vite — interface, canvas, HUD, menus
 ├── docker/
 │   ├── Dockerfile       # build multi-stage: builder → server → nginx
@@ -94,7 +94,7 @@ Destrua todos os **55 invasores** antes que qualquer um deles alcance a sua nave
 
 ### Inimigos
 
-A frota desce em bloco e **acelera** conforme você a diezma. Quanto mais vazia a grade, mais rápidos os sobreviventes.
+A frota desce em bloco e **acelera** conforme você a dizima. Quanto mais vazia a grade, mais rápidos os sobreviventes.
 
 | Posição na grade | Pontos |
 |-----------------|--------|
@@ -114,7 +114,7 @@ Você começa com **3 vidas**. Cada tiro de invader que acerta custa uma. Você 
 
 ### Attract Mode
 
-No menu inicial, selecione **Attract Mode** para assistir a uma demonstração automática com IA jogando. Pressione qualquer tecla para voltar ao menu.
+No menu inicial, selecione **Attract Mode** para assistir a uma demonstração em auto-play. Pressione qualquer tecla para voltar ao menu.
 
 ---
 
