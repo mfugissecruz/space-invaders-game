@@ -2,7 +2,9 @@
 
 **Defenda a Terra. Elimine a invasão. Não deixe nenhum chegar.**
 
-![demo](assets/demo-play.gif)
+<p align="center">
+  <img src="assets/demo-play.gif" height="400" alt="demo" />
+</p>
 
 ---
 
