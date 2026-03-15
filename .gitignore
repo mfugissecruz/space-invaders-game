@@ -27,4 +27,4 @@ MEMORY.md
 PROJECT.md
 SETUP.md
 SPACE_INVADERS.md
-assets/
+assets/*.md
