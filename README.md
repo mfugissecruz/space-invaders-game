@@ -2,9 +2,9 @@
 
 <p align="center"><strong>Defenda a Terra. Elimine a invasão. Não deixe nenhum chegar.</strong></p>
 
-<div style="width: 100%; background: #000; text-align: center;">
+<p align="center">
   <img src="assets/demo-play.gif" height="400" alt="demo" />
-</div>
+</p>
 
 ---
 
